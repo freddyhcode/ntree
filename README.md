@@ -4,9 +4,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)]()
 
-**Version:** 0.1.0  
-**Author:** freddyhcode
-
 Una pequeña herramienta CLI nativa para mostrar el árbol de directorios, escrita en Nim.
 
 ## Características
